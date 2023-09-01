@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Titanic Submission:
 - I could have improved this model by conducting hyperparameter tuning
 - Or even building an ensemble model
