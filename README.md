@@ -5,6 +5,5 @@ Titanic Classification Submission:
 - I scored 77% on the test data for this competition and displayed a good understanding of the task
 
 House Price Regression Submission:
-- In this task I was able to test cross validation 
-- I also performed hyperparamter tuning
+- In this task I was able to test cross validation, an ensemble method and conducted hyperparameter tuning 
 - My model performance was strong against the evaluation data
