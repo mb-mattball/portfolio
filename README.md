@@ -1,4 +1,11 @@
 # Kaggle Excercises
+Market Analysis:
+- In this notebook I analyse stock market price data
+- This helps to inform my understanding of the data I have and build my hypothesese
+- I then use a kera tensorflow model to try and predict future stock price changes
+- The ability of a model to do this is relatively limited, so the outcome of this work is not concrete
+- But it has been a great learning excercise 
+
 Titanic Classification Submission:
 - I could have improved this model by conducting hyperparameter tuning
 - Or even building an ensemble model
