@@ -1,9 +1,9 @@
 # Kaggle Excercises
-Market Analysis:
+stock-price-analysis:
 - In this notebook I analyse stock market price data
 - This helps to inform my understanding of the data I have and build my hypothesese
-- I then use a kera tensorflow model to try and predict future stock price changes
-- The ability of a model to do this is relatively limited, so the outcome of this work is not concrete
+- I then use a keras tensorflow model to try and predict future stock price changes
+- The ability of a model to do this is relatively limited, so the outcome of this work is incomplete
 - But it has been a great learning excercise
 
 Update Stock Data:
